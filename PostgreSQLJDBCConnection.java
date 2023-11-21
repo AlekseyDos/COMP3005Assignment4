@@ -1,5 +1,3 @@
-package server;
-
 import java.util.Scanner;
 import java.sql.*;
 import java.sql.Connection;
