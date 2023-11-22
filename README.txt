@@ -10,7 +10,7 @@ Open the SQL Tool in Student Enrollment and execute the SQL script provided in "
 
 Application Launching Instructions:
 Inside PostgreSQLJDBCConnection.java, input your host, port, and DB name in String url = "jdbc:postgresql://<HOST>:<PORT>/<DATABASE_NAME>";
-Inside PostgreSQLJDBCConnection.java, input your psotgres database username in String user = "<USERNAME>";
+Inside PostgreSQLJDBCConnection.java, input your postgres database username in String user = "<USERNAME>";
 Inside PostgreSQLJDBCConnection.java, input your postgres database password in String password = "<PASSWORD>";
 You may now run PostgreSQLJDBCConnection.java and connect to your database
 
@@ -30,4 +30,5 @@ deleteStudent:
 Deletes the record of the student with the specified student_id.
 
 Notes:
-The commands are case sensative
+The commands are case-sensitive
+You'll need the JDBC for postgreSQL which can be found here: https://jdbc.postgresql.org/download/
