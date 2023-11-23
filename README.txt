@@ -2,7 +2,7 @@ Name: Aleksey Dosov
 
 Operating System: Windows 11
 
-Youtube Link: https://youtu.be/zQ_Z0aJ9ick
+Youtube Link: https://youtu.be/Ver1n4lvyW4
 
 Table Creation Instructions: 
 Create a new database inside postgres using pgAdmin4
