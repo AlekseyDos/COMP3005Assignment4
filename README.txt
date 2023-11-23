@@ -5,8 +5,8 @@ Operating System: Windows 11
 Youtube Link: https://youtu.be/zQ_Z0aJ9ick
 
 Table Creation Instructions: 
-Create a new database inside postgres using pgAdmin4 and name it "Student Enrollment"
-Open the Query Tool in Student Enrollment and execute the SQL script provided in "StudentEnrollmentCreationScript.txt"
+Create a new database inside postgres using pgAdmin4
+Open the Query Tool in Student Enrollment and execute the SQL script provided in "StudentsTableCreationScript.txt"
 
 Application Launching Instructions:
 Inside PostgreSQLJDBCConnection.java, input your host, port, and DB name in String url = "jdbc:postgresql://<HOST>:<PORT>/<DATABASE_NAME>";
